@@ -34,6 +34,10 @@ Here, I'll share:
 
 ---
 
+# 目录
+## DPS
+* [N皇后](https://github.com/X-peco/Algo-Daily/blob/main/README.md)
+
 >主要为python
 >由于家教的缘故被迫深入一点c++
 >一般还是喜欢用python刷哈哈
