@@ -36,7 +36,7 @@ Here, I'll share:
 
 # 目录
 ## DPS
-* [N皇后]([https://github.com/X-peco/Algo-Daily/blob/main/README.md](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/N%E7%9A%87%E5%90%8E.md))
+* [N皇后]([https://github.com/X-peco/Algo-Daily/blob/main/README.md](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/N%E7%9A%87%E5%90%8E.md)
 
 >主要为python
 >由于家教的缘故被迫深入一点c++
