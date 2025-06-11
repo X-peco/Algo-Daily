@@ -35,8 +35,9 @@ Here, I'll share:
 ---
 
 # 目录
-## DPS
+## DFS/BFS
 * [N皇后](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/N%E7%9A%87%E5%90%8E.md)
+* [最短桥](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E7%9F%AD%E6%A1%A5.md)
 
 >主要为python
 >由于家教的缘故被迫深入一点c++
