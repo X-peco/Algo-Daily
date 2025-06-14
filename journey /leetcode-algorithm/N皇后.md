@@ -1,4 +1,4 @@
-# [N 皇后](https://leetcode.cn/problems/n-queens/)
+# [N 皇后HARD](https://leetcode.cn/problems/n-queens/)
 
 # 📋 题目描述
 > **给定一个N×N的矩阵，如何摆放n个皇后棋子，皇后的攻击范围是：以皇后为起原点的行，列，左斜线，右斜线。要求每个皇后的攻击范围内不可以放置其余皇后**
