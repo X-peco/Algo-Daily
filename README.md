@@ -36,7 +36,7 @@
 
 # 目录
 ## DFS/BFS
-* [**N皇后HARD**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/N%E7%9A%87%E5%90%8E.md)
+* [**N皇后HARD**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/N%E7%9A%87%E5%90%8EHARD.md)
 * [**单词接龙HARD**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.md)
 * [**最短桥MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E7%9F%AD%E6%A1%A5.md)
 * [**二叉树所有路径EASY**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84EASY.md)
