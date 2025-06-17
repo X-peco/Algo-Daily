@@ -40,6 +40,8 @@
 * [**单词接龙HARD**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.md)
 * [**最短桥MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E7%9F%AD%E6%A1%A5.md)
 * [**二叉树所有路径EASY**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84EASY.md)
+## stack
+* [**表现良好的最长时间段MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5MID.md)
 
 ---
 ## 技术栈
