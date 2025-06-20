@@ -42,7 +42,8 @@
 * [**二叉树所有路径EASY**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84EASY.md)
 ## stack
 * [**表现良好的最长时间段MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5MID.md)
-
+## 树
+* [**最小高度树**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E5%B0%8F%E9%AB%98%E5%BA%A6%E6%A0%91MID.md)
 ---
 ## 技术栈
 1. ***python***
