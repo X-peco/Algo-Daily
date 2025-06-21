@@ -43,7 +43,7 @@
 #### 🏗️ 构造邻接表
 
 <details>
-<summary>Python </summary>
+<summary>🐍Python </summary>
 
 ```python
 neighbors = [set() for _ in range(n)]
@@ -55,7 +55,7 @@ for x, y in edges:
 </details>
 
 <details>
-<summary>C++ </summary>
+<summary>🦕C++ </summary>
 
 ```cpp
 vector<unordered_set<int>> neighbors(n);
@@ -70,7 +70,7 @@ for (const auto& edge : edges) {
 #### 🌱 初始化标记叶子
 
 <details>
-<summary>Python </summary>
+<summary>🐍Python </summary>
 
 ```python
 leaves = [i for i in range(n) if len(neighbors[i]) == 1]
@@ -78,7 +78,7 @@ leaves = [i for i in range(n) if len(neighbors[i]) == 1]
 </details>
 
 <details>
-<summary>C++ </summary>
+<summary>🦕C++ </summary>
 
 ```cpp
 vector<int> leaves;
@@ -94,7 +94,7 @@ for (int i = 0; i < n; ++i) {
 #### 🔄 全流程+更新叶子
 
 <details>
-<summary>Python 实现</summary>
+<summary>🐍Python</summary>
 
 ```python
 class Solution(object):
@@ -131,7 +131,7 @@ class Solution(object):
 </details>
 
 <details>
-<summary>C++ 实现</summary>
+<summary>🦕C++</summary>
 
 ```cpp
 class Solution {
