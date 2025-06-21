@@ -8,7 +8,7 @@
 
 
 <details>
-  <summary><strong>Python 代码</strong></summary>
+  <summary><strong>🐍Python</strong></summary>
 
 ```python
 class Solution(object):
@@ -58,7 +58,7 @@ class Solution(object):
 </details>
 
 <details>
-  <summary><strong>C++ 代码</strong></summary>
+  <summary><strong>🦕C++ </strong></summary>
 
 ```c++
 #include <vector>
@@ -116,7 +116,7 @@ public:
 
 
 <details>
-  <summary><strong>Python 实现</strong></summary>
+  <summary><strong>🐍Python </strong></summary>
 
 ```python
 level = 0#桥长度，也可以说是BFS深度
@@ -151,7 +151,7 @@ level = 0#桥长度，也可以说是BFS深度
 </details>
 
 <details>
-  <summary><strong>C++ 实现</strong></summary>
+  <summary><strong>🦕C++</strong></summary>
 
 ```c++
 // 使用 BFS 从边界海洋点逐层扩展，寻找第二个岛屿
