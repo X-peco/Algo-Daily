@@ -32,7 +32,7 @@
   # BFS/相邻单词集
 
 <details>
-  <summary><strong>Python 代码</strong></summary>
+  <summary><strong>🐍Python </strong></summary>
 
 ```python
 while q1 and not found:
@@ -59,7 +59,7 @@ while q1 and not found:
 
 
 <details>
-  <summary><strong>C++ 代码</strong></summary>
+  <summary><strong>🦕C++</strong></summary>
 
 ```cpp
 void bfsWordLadder(
@@ -111,7 +111,7 @@ void bfsWordLadder(
 
 
 <details>
-  <summary><strong>Python 代码</strong></summary>
+  <summary><strong>🐍Python</strong></summary>
 
 ```python
 while q1 and not found:
@@ -150,7 +150,7 @@ while q1 and not found:
 
 
 <details>
-  <summary><strong>C++ 代码</strong></summary>
+  <summary><strong>🦕C++</strong></summary>
 
 ```cpp
 while (!q1.empty() && !found) {
@@ -204,7 +204,7 @@ while (!q1.empty() && !found) {
 ***至此我们通过BFS，找出了beginWord的相邻单词，以及由此衍生出，相邻单词的相邻单词(似乎有点绕，其实理解了的话，还蛮好理解的？？)，于是差一个相对轻松一点的递归+回溯出答案了，递归每个单词的单词集，同时注意回溯的设置***
 
 <details>
-  <summary><strong>Python 代码</strong></summary>
+  <summary><strong>🐍Python</strong></summary>
 
 ```python
 if found:
@@ -225,7 +225,7 @@ return ans
 
 
 <details>
-  <summary><strong>C++ 代码</strong></summary>
+  <summary><strong>🦕C++</strong></summary>
 
 ```cpp
 if (found) {
