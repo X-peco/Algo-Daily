@@ -53,7 +53,7 @@
 ## 🛠️ 前缀和的实现
 
 <details>
-  <summary><strong>Python 代码</strong></summary>
+  <summary><strong>🐍Python </strong></summary>
 
 ```python
 class Solution(object):
@@ -67,7 +67,7 @@ class Solution(object):
 </details>
 
 <details>
-  <summary><strong>C++ 代码</strong></summary>
+  <summary><strong>🦕C++ </strong></summary>
 
 ```cpp
 class Solution {
@@ -100,7 +100,7 @@ public:
 ### 🏗️ 下标择取优化
 
 <details>
-  <summary><strong>Python 代码</strong></summary>
+  <summary><strong>🐍Python </strong></summary>
 
 ```python
 class Solution(object):
@@ -127,7 +127,7 @@ class Solution(object):
 </details>
 
 <details>
-  <summary><strong>C++ 代码</strong></summary>
+  <summary><strong>🦕C++ </strong></summary>
 
 ```cpp
 class Solution {
