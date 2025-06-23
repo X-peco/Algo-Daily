@@ -3,7 +3,7 @@
 > *"Keep pushing forward and being motivated!!!"*
 
 🇬🇧 **English Version**  
-**I started my algorithm-learning journey last month. To be honest, it was quite a struggle to make that decision at the time, since I was still unsure about my future path. Also, mastering algorithms isn't a simple thing, especially for a beginner like me.**
+**Recently I started my algorithm-learning journey . To be honest, it was quite a struggle to make that decision at the time, since I was still unsure about my future path. Also, mastering algorithms isn't a simple thing, especially for a beginner like me.**
 
 **Why do I say that? Because when I first started learning algorithms and tried to solve relevant LeetCode problems, it often happened that I would spend an entire afternoon without being able to solve one!**
 
@@ -19,7 +19,7 @@
 ---
 
 🇨🇳 **中文版本**  
-**我5.1才真正开始我的算法学习之旅，说真的，做出这个决定对我蛮困难的，当时的我还没有明确我的之后的学习方案有哪些，而且掌握新的算法并不简单，尤其是对我这种初学者来说。**
+**我最近开始我的算法学习之旅，说真的，做出这个决定对我蛮困难的，当时的我还没有明确我的之后的学习方案有哪些，而且掌握新的算法并不简单，尤其是对我这种初学者来说。**
 
 **之所以这么说，是因为我刚开始接触算法并尝试做leetcode上相关算法的题目时，实际情况可能是我花了一个下午甚至还做不出来。**
 
