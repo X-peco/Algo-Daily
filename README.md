@@ -48,5 +48,5 @@
 * [**最小高度树MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E5%B0%8F%E9%AB%98%E5%BA%A6%E6%A0%91MID.md) #*BFS*
 ---
 ## 技术栈
-1. ***python***
-2. ***c++***
+- ***python***
+-  ***c++***
