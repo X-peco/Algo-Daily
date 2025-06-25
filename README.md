@@ -43,6 +43,7 @@
 # DP
 * [**最小路径和MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8CMID.md)
 * [**矩阵距0最小距离MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E7%9F%A9%E9%98%B5%E8%B7%9D0%E6%9C%80%E5%B0%8F%E8%B7%9D%E7%A6%BBMID.md)
+* [**最大正方形MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
 ## stack
 * [**表现良好的最长时间段MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5MID.md) #*前缀和*
 ## 树
