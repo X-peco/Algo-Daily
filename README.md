@@ -48,6 +48,8 @@
 * [**表现良好的最长时间段MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5MID.md) #*前缀和*
 ## 树
 * [**最小高度树MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E6%9C%80%E5%B0%8F%E9%AB%98%E5%BA%A6%E6%A0%91MID.md) #*BFS*
+## 哈希表
+* [**和为k的子数组MID**](https://github.com/X-peco/Algo-Daily/blob/main/journey%20/leetcode-algorithm/%E5%92%8C%E4%B8%BAk%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84MID.md)#*前缀和*
 ---
 ## 技术栈
 - ***python***
